@@ -12,7 +12,7 @@ Apache Spark 2.2.0
 
 PACKAGES:
 ---------
-The package required for running the flowmeter, are provided in the 'requirements.txt' file.
+The package required for running the notebook, are provided in the 'requirements.txt' file.
 
 
 
