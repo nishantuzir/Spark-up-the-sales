@@ -6,7 +6,7 @@ The anaysis report is contained in the jupyter notebook named 'analysis.ipynb'. 
 
 DEPENDENCY:
 -----------
-python 3.x
+python (3.x or 2.7)
 
 Apache Spark 2.2.0
 
