@@ -1,0 +1,2 @@
+findspark==1.2.0
+jupyter==5.4.1
